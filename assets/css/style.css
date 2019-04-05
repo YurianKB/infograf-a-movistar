@@ -1,0 +1,483 @@
+/*seccion full*/
+.row{
+	margin: 0px;
+	padding-top: 2%;
+	padding-left: 3%;
+	padding-right: 5%;
+}
+
+.seccion-full{
+	padding-top: 13vh;
+	}
+
+.img-grande{
+	height: 40vh;
+}
+
+.img-mediano{
+	height: 30vh;
+}
+
+.icono-mediano{
+	height: 20vh;
+}
+
+.icono-peque{
+	height: 4vh;
+}
+
+.icono-usuarios{
+	height: 10vh;
+}
+
+.fondo-azul{
+	background-color: #00A9E0;
+}
+
+.fondo-azul-claro{
+	background-color: #41D0FF;
+}
+
+.fondo-blanco{
+	background-color: #FFFFFF;
+}
+
+.fondo-rosa{
+	background-color: #E9426D;
+}
+
+.fondo-morado{
+	background-color: #954B97;
+}
+
+.fondo-menta{
+	background-color: #56e9f1;
+}
+
+.fondo-darkblue{
+	background-color: #22a1bd;
+}
+
+.fondo-naranja{
+	background-color: orange;
+}
+
+.fondo-verde{
+	background-color: #30b91d;
+}
+
+.texto-azul{
+	color: #00A9E0;
+}
+
+.texto-blanco{
+	color: #FFFFFF;
+}
+
+.texto-gris{
+	color: #50535A;
+}
+
+.rectangulo{
+	padding-left: 1%;
+	padding-right: 1%;
+	border-radius: 15px;
+}
+
+.rectangulo-padding{
+	padding: 2%;
+	border-radius: 15px;
+}
+
+.rectangulo-padding2{
+	padding-top: 23%;
+	padding-bottom: 23%;
+	border-radius: 15px;
+}
+
+.ovalo{
+	border-radius: 30px;
+}
+
+
+.img-float{
+  float: left; 
+  margin: 8px
+}
+
+.seccion-usuarios{
+	margin-top: 8vh!important;
+	padding-top: 1%!important;
+	padding-bottom: 4%!important;
+}
+
+.seccion-usuarios2{
+	margin-top: 8vh!important;
+	padding-top: 2%!important;
+	padding-bottom: 2%!important;
+}
+
+.genero{
+	padding-top: 6%!important;
+}
+
+.rec-morado{
+	padding: 7% 3% 7% 3%;
+	width: 38%;
+	margin-left: 32%;
+	margin-top:-5%;
+}
+
+.tareasAl{
+	padding-bottom: 3%;
+}
+
+.top-personas{
+	padding-left: 5%!important;
+}
+
+.img-s{
+	height: 10vh;
+}
+
+.txt-internet{
+	margin-top: -3%;
+}
+
+.senal{
+	margin-bottom: 30%;
+}
+
+
+.cuadrito{
+	padding: 0.5vh 2.5vh;
+	margin-left: 2.5vh;
+	margin-right: 1vh;
+}
+
+.horarios{
+	padding-top: 5%;
+	padding-bottom: 3%;
+}
+
+.seccion-padding{
+	padding-bottom: 3%;
+	padding-top: 3%;
+}
+
+.titulo-padding{
+	padding-bottom: .3vh;
+	padding-top: .2vh;
+}
+
+.rectangulo-naranja{
+	padding: 8% 8% 8% 8%;
+	border-radius: 15px;
+}
+
+.ovalo-rosa{
+	width: 45vw!important;
+}
+
+.ovalo-blanco{
+	width: 45vw!important;
+
+}
+
+.grafica1-1{
+	width: 5vw;
+	background: #FFB221;
+}
+
+.grafica1-2{
+	width: 9vw;
+	background: #FFFFFF;
+}
+
+.bars{
+	margin-top: 5%;
+}
+
+.porcentaje-bar{
+	margin-top: -6%;
+	margin-bottom: -12%;
+}
+
+
+.bars-vertical{
+	transform: rotate(-90deg);
+	width: 200px; 
+	height: 20px; 
+	background-color: transparent; 
+	padding-right: 10px;
+}
+
+.graficas-proveedores{
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+.color-bar-vertical{
+	height: 250px;
+}
+
+.txt-usuarios1vez{
+	margin-top: 25%;
+}
+
+.txt-tv{
+	margin-top: 9%;
+}
+
+.img-casa-pad{
+	margin-top: 60%;
+}
+
+.img-edificio-pad{
+	margin-top: 50%;
+}
+
+.oficina{
+	margin-bottom: 5%;
+	}
+
+
+@media only screen and (max-width: 600px) {
+	.rec-morado{
+		margin-bottom: 5%;
+	}
+
+	.oficina{
+		margin-top: 5%;
+		margin-bottom: 8%;
+	}
+
+	.img-casa-pad{
+		margin-top: 0%;
+	}
+
+	.img-edificio-pad{
+		margin-top: 5%;
+	}
+
+	.rectangulo-padding2{
+		padding: 3% 0% 3% 0%;
+	}
+
+	.horarios{
+		margin-bottom: 5%;
+	}
+
+	.seccion-usuarios, .seccion-usuarios{
+		margin-top: 0%!important;
+	}
+
+	.ovalo-blanco, .ovalo-rosa{
+		width: 100%!important;
+		padding: 0.5%!important;
+	}
+
+	.seccion-usuarios2{
+		margin-top: -5%!important;
+	}
+
+	.txt-usuarios1vez{
+		margin-top: 0%;
+	}
+
+	.img-mediano{
+		height: 25vh;
+	}
+
+	p, li{
+		font-size: 25px;
+	}
+
+
+}
+
+
+@media (min-width: 768px) and (max-width: 1024px) {
+		.rec-morado{
+		margin-bottom: 5%;
+	}
+
+	.oficina{
+		margin-top: 5%;
+		margin-bottom: 8%;
+	}
+
+	.img-casa-pad{
+		margin-top: 0%;
+	}
+
+	.img-edificio-pad{
+		margin-top: 5%;
+	}
+
+	.rectangulo-padding2{
+		padding: 3% 0% 3% 0%;
+	}
+
+	.horarios{
+		margin-bottom: 5%;
+	}
+
+
+	.seccion-usuarios2{
+		margin-top: -1%!important;
+	}
+
+	.ovalo-blanco, .ovalo-rosa{
+		width: 100%!important;
+		padding: 0.5%!important;
+	}
+
+	.txt-usuarios1vez{
+		margin-top: 65%;
+	}
+
+	.img-mediano{
+		height: 25vh;
+	}
+
+		.seccion-usuarios,{
+		margin-top: 0%!important;
+	}
+
+	p, li{
+		font-size: 25px;
+	}
+}
+
+
+
+
+/*QESITIO */
+
+* {
+    box-sizing: border-box;    
+}
+.grafico {
+    height: 200px;
+    margin: 1rem auto;
+    position: relative;
+    width: 200px;
+      } 
+.recorte {
+    border-radius: 50%;
+    clip: rect(0px, 200px, 200px, 100px);
+    height: 100%;
+    position: absolute;
+    width: 100%;
+     }
+.quesito {
+    border-radius: 50%;
+    clip: rect(0px, 100px, 200px, 0px);
+    height: 100%;
+    position: absolute;
+    width: 100%;
+    font-family: monospace;
+    font-size: 1.5rem;
+     }
+
+/*GRAFICA 1*/
+#porcion1-grafica1 {
+    transform: rotate(10deg);
+     }
+#porcion1-grafica1 .quesito {
+    background-color: #9a5eaf;
+    transform: rotate(70deg);
+     }
+
+
+#porcion2-grafica1 {
+    transform: rotate(87deg);
+     }
+#porcion2-grafica1 .quesito {
+    background-color: #e9426d;
+    transform: rotate(120deg);
+     }
+
+
+#porcion3-grafica1 {
+    transform:rotate(-145deg);
+     }
+#porcion3-grafica1 .quesito {
+    background-color: #5bc500;
+    transform: rotate(145deg);
+     }
+
+ /*TEXTOS PORCENTAJES GRAFICA1*/
+#porcion1-grafica1 .quesito:after {
+    content: attr(data-rel);
+    left: 25%;
+    line-height: 5;
+    position: absolute;
+    top: 0;
+    transform: rotate(-80deg);
+}
+#porcion2-grafica1 .quesito:after {
+    content: attr(data-rel);
+    left: 15%;
+    position: absolute;
+    top: 30%;
+    transform: rotate(-207deg);
+}
+#porcion3-grafica1 .quesito:after {
+   content: attr(data-rel);
+   left: 10%;
+   position: absolute;
+   top: 30%;
+}
+
+
+/*GRAFICA 2*/
+#porcion1-grafica2 {
+    transform: rotate(10deg);
+     }
+#porcion1-grafica2 .quesito {
+    background-color: #9a5eaf;
+    transform: rotate(70deg);
+     }
+
+
+#porcion2-grafica2 {
+    transform: rotate(87deg);
+     }
+#porcion2-grafica2 .quesito {
+    background-color: #e9426d;
+    transform: rotate(120deg);
+     }
+
+
+#porcion3-grafica2 {
+    transform:rotate(-145deg);
+     }
+#porcion3-grafica2 .quesito {
+    background-color: #5bc500;
+    transform: rotate(145deg);
+     }
+
+ /*TEXTOS PORCENTAJES GRAFICA 2*/
+#porcion1-grafica2 .quesito:after {
+    content: attr(data-rel);
+    left: 25%;
+    line-height: 5;
+    position: absolute;
+    top: 0;
+    transform: rotate(-80deg);
+}
+#porcion2-grafica2 .quesito:after {
+    content: attr(data-rel);
+    left: 15%;
+    position: absolute;
+    top: 30%;
+    transform: rotate(-207deg);
+}
+#porcion3-grafica2 .quesito:after {
+   content: attr(data-rel);
+   left: 10%;
+   position: absolute;
+   top: 30%;
+}
